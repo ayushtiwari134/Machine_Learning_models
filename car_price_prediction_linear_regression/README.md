@@ -1,4 +1,4 @@
-# My very first machine training model using Linear Regression
+## My very first machine training model using Linear Regression
 The accuracy of the model is not that great due to the dataset being extremely small with only about 300 rows and 8 columns and no null values<br>
 *Model used: Linear Regression* <br>
 *Model imported from : Scikit_Learn* <br><br>
